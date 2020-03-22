@@ -1,0 +1,10 @@
+# This file tracks properties of this Flutter project.
+# Used by Flutter tool to assess capabilities and perform upgrades etc.
+#
+# This file should be version controlled and should not be manually edited.
+
+version:
+  revision: d72f9834ca48e469b993c3bb0e74f50f838af635
+  channel: fuchsia_throw
+
+project_type: app
